@@ -1,4 +1,4 @@
 # fivem-scripts
 Scripts for FiveM
 
-https://esx-scripts.com/
+https://fivemx.com/
